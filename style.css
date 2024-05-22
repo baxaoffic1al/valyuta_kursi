@@ -1,0 +1,15 @@
+.alert {
+    position: absolute;
+    top: -8%;
+    right: 2%;
+    display: none;
+}
+
+.form-control:focus {
+    border-color: #dee2e6;
+    box-shadow: none;
+}
+
+.bottom {
+    bottom: 80px;
+}
